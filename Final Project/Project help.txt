@@ -1,0 +1,9 @@
+using the synthesizer
+
+http://www.informit.com/articles/article.aspx?p=20457
+
+Stack overflow stuff
+
+http://stackoverflow.com/questions/2828820/setting-instrument-channels-using-the-javax-sound-midi-package
+
+http://stackoverflow.com/questions/4771129/changing-instrument-during-track-playback-midi-java
